@@ -1,1 +1,1 @@
-# mssc-config-repo
+# mssc-brewery-config-repo
